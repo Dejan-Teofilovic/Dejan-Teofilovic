@@ -2,10 +2,6 @@
 <h3 align="center">A passionate full-stack developer</h3>
 <img src="./profile-3d-contrib/profile-green-animate.svg"/>
 
-
-- 📫 How to reach me **dejanteofilovic2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
